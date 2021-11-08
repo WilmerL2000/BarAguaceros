@@ -60,7 +60,7 @@ namespace BarAguaceros
             // 
             // iconButton1
             // 
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Plus;
             this.iconButton1.IconColor = System.Drawing.Color.Black;
             this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton1.IconSize = 35;
@@ -93,7 +93,7 @@ namespace BarAguaceros
             // 
             // iconButton2
             // 
-            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.Plus;
             this.iconButton2.IconColor = System.Drawing.Color.Black;
             this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton2.IconSize = 35;

@@ -131,7 +131,7 @@ namespace BarAguaceros
             // 
             // iconButton3
             // 
-            this.iconButton3.IconChar = FontAwesome.Sharp.IconChar.UserMinus;
+            this.iconButton3.IconChar = FontAwesome.Sharp.IconChar.Minus;
             this.iconButton3.IconColor = System.Drawing.Color.Black;
             this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton3.IconSize = 35;
@@ -147,7 +147,7 @@ namespace BarAguaceros
             // 
             // iconButton2
             // 
-            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.UserEdit;
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.Edit;
             this.iconButton2.IconColor = System.Drawing.Color.Black;
             this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton2.IconSize = 35;
@@ -163,7 +163,7 @@ namespace BarAguaceros
             // 
             // iconButton1
             // 
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Plus;
             this.iconButton1.IconColor = System.Drawing.Color.Black;
             this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton1.IconSize = 35;
@@ -227,7 +227,7 @@ namespace BarAguaceros
             // 
             // iconButton10
             // 
-            this.iconButton10.IconChar = FontAwesome.Sharp.IconChar.UserCheck;
+            this.iconButton10.IconChar = FontAwesome.Sharp.IconChar.Check;
             this.iconButton10.IconColor = System.Drawing.Color.Black;
             this.iconButton10.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton10.IconSize = 35;

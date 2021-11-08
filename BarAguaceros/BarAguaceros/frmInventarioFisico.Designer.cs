@@ -149,7 +149,7 @@ namespace BarAguaceros
             // 
             // iconButton2
             // 
-            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.Plus;
             this.iconButton2.IconColor = System.Drawing.Color.Black;
             this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton2.IconSize = 35;
@@ -182,7 +182,7 @@ namespace BarAguaceros
             // 
             // iconButton1
             // 
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Edit;
             this.iconButton1.IconColor = System.Drawing.Color.Black;
             this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton1.IconSize = 35;
@@ -206,7 +206,7 @@ namespace BarAguaceros
             this.label5.TabIndex = 93;
             this.label5.Text = "Inventario físico";
             // 
-            // frmInventario
+            // frmInventarioFisico
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -227,7 +227,7 @@ namespace BarAguaceros
             this.Controls.Add(this.iconButton9);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "frmInventario";
+            this.Name = "frmInventarioFisico";
             this.Text = "frmInventario";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
