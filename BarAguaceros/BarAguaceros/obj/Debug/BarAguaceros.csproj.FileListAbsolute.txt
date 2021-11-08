@@ -1,0 +1,6 @@
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.AssemblyReference.cache
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmUsuario.resources
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.Properties.Resources.resources
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.GenerateResource.cache
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmCategoria.resources
