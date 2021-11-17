@@ -4,3 +4,17 @@ C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAg
 C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.GenerateResource.cache
 C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.CoreCompileInputs.cache
 C:\Users\wilme\Documents\Bar Aguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmCategoria.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.AssemblyReference.cache
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmCategoria.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmFactura.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmInventarioConsultas.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmInventarioFisico.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmInventarioActBotellas.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmPrincipal.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmProducto.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmProveedor.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmUsuario.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.Properties.Resources.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.frmRegisroCompra.resources
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.GenerateResource.cache
+C:\Users\wilme\Source\Repos\BarAguaceros\BarAguaceros\BarAguaceros\obj\Debug\BarAguaceros.csproj.CoreCompileInputs.cache
