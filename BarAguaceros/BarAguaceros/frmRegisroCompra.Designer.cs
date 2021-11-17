@@ -39,6 +39,9 @@ namespace BarAguaceros
             this.label2 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fdfs = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -54,11 +57,15 @@ namespace BarAguaceros
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.fdfs});
             this.dataGridView1.Location = new System.Drawing.Point(16, 118);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(953, 358);
+            this.dataGridView1.Size = new System.Drawing.Size(748, 358);
             this.dataGridView1.TabIndex = 78;
             // 
             // iconButton1
@@ -93,9 +100,10 @@ namespace BarAguaceros
             this.iconButton6.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.iconButton6.Location = new System.Drawing.Point(479, 55);
             this.iconButton6.Name = "iconButton6";
-            this.iconButton6.Size = new System.Drawing.Size(31, 29);
+            this.iconButton6.Size = new System.Drawing.Size(163, 29);
             this.iconButton6.TabIndex = 86;
-            this.iconButton6.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton6.Text = "Agregar Producto";
+            this.iconButton6.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton6.UseVisualStyleBackColor = true;
             // 
             // label1
@@ -141,11 +149,32 @@ namespace BarAguaceros
             this.label3.TabIndex = 92;
             this.label3.Text = "Pedido de compra";
             // 
+            // Column1
+            // 
+            this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column1.HeaderText = "Código";
+            this.Column1.MinimumWidth = 6;
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column2.HeaderText = "Unidades";
+            this.Column2.MinimumWidth = 6;
+            this.Column2.Name = "Column2";
+            // 
+            // fdfs
+            // 
+            this.fdfs.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.fdfs.HeaderText = "Monto";
+            this.fdfs.MinimumWidth = 6;
+            this.fdfs.Name = "fdfs";
+            // 
             // frmRegisroCompra
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(988, 632);
+            this.ClientSize = new System.Drawing.Size(797, 632);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label2);
@@ -176,5 +205,8 @@ namespace BarAguaceros
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fdfs;
     }
 }
